@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aydın Can İçiğen</h1>
 <h3 align="center">I am a frontend developer living in Istanbul</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felix204&label=Profile%20views&color=0e75b6&style=flat" alt="felix204" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felix204" alt="felix204" /></a> </p>
 
