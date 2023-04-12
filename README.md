@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js** **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **icigenaydincan@gmail.com**
 
