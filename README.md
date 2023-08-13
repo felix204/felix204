@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aydın Can İçiğen</h1>
-<h3 align="center">I am a frontend developer living in Çorum</h3>
+<h3 align="center">I am a frontend developer living in Konya</h3>
 
 
 
