@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** **SCSS**
 
 - 📫 How to reach me **icigenaydincan@gmail.com**
 
